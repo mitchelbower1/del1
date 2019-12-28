@@ -45,6 +45,10 @@ ul {
   font-weight: 400;
 }
 
+.navItem:hover {
+  color: #61c386;
+}
+
 .navButton, .leftContentButton {
   height: 75px;
   width: 100vw;
